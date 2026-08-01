@@ -10,7 +10,7 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: KL_profile_pic.png
+    image: KL_profile_pic_edited2.png
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
    
