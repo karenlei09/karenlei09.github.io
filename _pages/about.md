@@ -6,12 +6,12 @@ subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: /assets/img/KL_profile_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    #<p>555 your office number</p>
+    #<p>123 your address street</p>
+    #<p>Your City, State 12345</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! I am currently a 1st year Physics PhD at Stanford University, advised by [Zhi-Xun Shen] (https://arpes.stanford.edu/our-people/professor-zhi-xun-shen). I received my B.S. in Physics from MIT in 2025. I am broadly interested in quantum materials and AI for science. In my research, I am currently working growing unconventional superconductors like bilayer nickelates via oxide molecular beam epitaxy (MBE) and using ARPES to study their novel properties. I am also very interested in AI's capacity to accelerate scientific discovery, and am developing AI tools to automate experiments and data analysis in physics.
+Welcome! I am currently a 1st year Physics PhD at Stanford University, advised by [Zhi-Xun Shen](https://arpes.stanford.edu/our-people/professor-zhi-xun-shen). I received my B.S. in Physics from MIT in 2025. I am broadly interested in quantum materials and AI for science. In my research, I am currently working growing unconventional superconductors like bilayer nickelates via oxide molecular beam epitaxy (MBE) and using ARPES to study their novel properties. I am also very interested in AI's capacity to accelerate scientific discovery, and am developing AI tools to automate experiments and data analysis in physics.
